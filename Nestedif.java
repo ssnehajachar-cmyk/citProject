@@ -16,10 +16,10 @@ public class Nestedif {
 
             }
             else
-                System.out.println("We are not eligible to vote avail government scheme");
+                System.out.println("We are not eligible to vote  but not eligible to avail government scheme");
 
         } else
-            System.out.println("We are not eligible to vote");
+            System.out.println("We are not eligible to vote and not eligible to avail government");
 
 
 

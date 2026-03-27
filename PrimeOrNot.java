@@ -18,6 +18,8 @@ public class PrimeOrNot {
         }
         if(flag)
             System.out.println(n+"is a Prime number");
+        else System.out.println(n+"is not Prime number");
+        sc.close();
 
         
     }
